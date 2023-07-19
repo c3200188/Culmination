@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webデザイン　演習課題</title>
+</head>
+<body>
+    <header>
+        <div>
+            <ul>
+                <li>メニュー</li>
+                <li>マイページ</li>
+                <li>小説検索</li>
+                <li>ランキング</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>チラシ裏</li>
+                <li>R―18</li>
+                <li>捜索掲示板</li>
+                <li>設定</li>
+            </ul>
+        </div>
+    </header>
+    <main>
 
+    </main>
+    <footer>
+        <div>
+            <ul>
+                <li>トップページ</li>
+                <li>利用規約</li>
+                <li>違反者一覧</li>
+                <li>取扱説明書</li>
+                <li>FAQ</li>
+                <li>Pポリシー</li>
+                <li>運営情報</li>
+                <li>情報提供</li>
+                <li>機能提案</li>
+                <li>自作フォント</li>
+                <li>閲覧履歴</li>
+                <li>作品捜索掲示板</li>
+                <li>ログアウト</li>
+                <li>パソコン版</li>
+                <li>ガラケー版</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
